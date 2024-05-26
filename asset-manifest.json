@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ex/static/css/main.c997adc5.css",
+    "main.js": "/ex/static/js/main.53e26a66.js",
+    "static/js/453.bb828c5d.chunk.js": "/ex/static/js/453.bb828c5d.chunk.js",
+    "static/media/rog trailer.mp4": "/ex/static/media/rog trailer.deb26931612dc093023a.mp4",
+    "static/media/SAMSUNG FLIP 3 AD good one .mp4": "/ex/static/media/SAMSUNG FLIP 3 AD good one .75a7919a5a8e019cf73d.mp4",
+    "static/media/tv.mp4": "/ex/static/media/tv.2604ec00975fde56af84.mp4",
+    "static/media/redmivid.mp4": "/ex/static/media/redmivid.5d001547ebe07780761d.mp4",
+    "static/media/ree.mp4": "/ex/static/media/ree.3591871f4ba228e26240.mp4",
+    "static/media/rog.png": "/ex/static/media/rog.a65ad4fb666ab649ce8b.png",
+    "static/media/redmi note 13 .png": "/ex/static/media/redmi note 13 .0186830588d16c1a9503.png",
+    "static/media/sony.png": "/ex/static/media/sony.23ef04c0e63390244e0b.png",
+    "static/media/redmi2.png": "/ex/static/media/redmi2.19eda0878ab19de9dd50.png",
+    "static/media/sam.png": "/ex/static/media/sam.8887dc3ce75a5cfd9ed6.png",
+    "index.html": "/ex/index.html",
+    "main.c997adc5.css.map": "/ex/static/css/main.c997adc5.css.map",
+    "main.53e26a66.js.map": "/ex/static/js/main.53e26a66.js.map",
+    "453.bb828c5d.chunk.js.map": "/ex/static/js/453.bb828c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c997adc5.css",
+    "static/js/main.53e26a66.js"
+  ]
+}
