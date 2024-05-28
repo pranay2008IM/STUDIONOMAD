@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/STUDIONOMAD/static/css/main.c997adc5.css",
+    "main.css": "/STUDIONOMAD/static/css/main.676888e9.css",
     "main.js": "/STUDIONOMAD/static/js/main.82c6616c.js",
     "static/js/453.bb828c5d.chunk.js": "/STUDIONOMAD/static/js/453.bb828c5d.chunk.js",
     "static/media/rog trailer.mp4": "/STUDIONOMAD/static/media/rog trailer.deb26931612dc093023a.mp4",
@@ -14,12 +14,12 @@
     "static/media/redmi2.png": "/STUDIONOMAD/static/media/redmi2.19eda0878ab19de9dd50.png",
     "static/media/sam.png": "/STUDIONOMAD/static/media/sam.8887dc3ce75a5cfd9ed6.png",
     "index.html": "/STUDIONOMAD/index.html",
-    "main.c997adc5.css.map": "/STUDIONOMAD/static/css/main.c997adc5.css.map",
+    "main.676888e9.css.map": "/STUDIONOMAD/static/css/main.676888e9.css.map",
     "main.82c6616c.js.map": "/STUDIONOMAD/static/js/main.82c6616c.js.map",
     "453.bb828c5d.chunk.js.map": "/STUDIONOMAD/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c997adc5.css",
+    "static/css/main.676888e9.css",
     "static/js/main.82c6616c.js"
   ]
 }
